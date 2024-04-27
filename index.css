@@ -1,0 +1,43 @@
+.content{
+max-width: 50rem;
+}
+.content h3{   
+font-size: 2rem;
+color: brown;
+}
+.content span{
+font-size: 3.5rem;
+color: black;
+padding: 0rem;
+line-height: 1.5;
+}
+.content p{
+background-color: black;
+font-size: 1.5rem;
+color: beige;
+padding: 0rem;
+line-height: 1.5;
+}
+.section p{
+background-color: darkgrey;
+font-size: 1.5rem;
+color: black;
+width: 23%;
+float: left;
+margin-top: -300px;
+margin-left: 900px;
+}
+.content img {
+max-width: 320px;
+float: left;
+border: 3px solid #fff;
+border-radius: 11px;
+margin-right: 20px;
+}
+.text img {
+max-width: 230px;
+float: left;
+border: 3px solid #ffffff;
+border-radius: 15px;
+margin-right: 20px;
+}
